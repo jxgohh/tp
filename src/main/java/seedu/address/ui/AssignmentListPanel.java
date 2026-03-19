@@ -45,5 +45,4 @@ public class AssignmentListPanel extends UiPart<Region> {
             }
         }
     }
-
 }
