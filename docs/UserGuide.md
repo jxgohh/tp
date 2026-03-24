@@ -23,7 +23,7 @@ LeTutor is a **desktop app for managing students and assignments, optimized for 
 5. Open the command line:
    * On macOS, Open Launchpad, search for Terminal and open it.
    * On Windows, Press the Windows key and search for PowerShell or Command Prompt, then open it
-6.In the command line, run: cd <folder_where_you_saved_letutor.jar>, followed by java -jar letutor.jar
+6. In the command line, run: cd <folder_where_you_saved_letutor.jar>, followed by java -jar letutor.jar
 7. After a few seconds, the main window will appear.
 
 
